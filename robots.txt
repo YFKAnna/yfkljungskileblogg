@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://yfkanna.github.io/yfkljungskileblogg/sitemap.xml
+Sitemap: https://yfkljungskile.se/sitemap.xml
